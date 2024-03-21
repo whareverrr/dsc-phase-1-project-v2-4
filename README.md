@@ -66,7 +66,52 @@ Additionally, by avoiding direct competition and adjusting release schedules in 
 
 Analyzing audience participation and preferences allows Microsoft to tailor content offers accordingly, increasing engagement and viewership. Overall, strategic release scheduling is essential for optimizing box office impact and ensuring the success of Microsoft's movie productions.
 
-![image](https://github.com/learn-co-curriculum/dsc-phase-1-project-v2-4/assets/67095878/53f50a6b-0188-4e3e-9014-3c2d28a5b94f
+![image](https://github.com/whareverrr/dsc-phase-1-project-v2-4/blob/master/4.jpeg)
+
+
+
+(ii) Genre-Centric Film Strategy
+
+Microsoft should consider focusing on the development of films within popular genres such as drama, comedy, and mystery. 
+
+By understanding the frequency of these genres in the dataset and recognizing their popularity among viewers, Microsoft can maximize audience engagement and box office success. 
+
+This approach involves strategic genre selection, aiming to capture audience attention and capitalize on market demand while maintaining creative flexibility to deliver unique content. 
+
+Overall, prioritizing these genres in Microsoft's film production strategy presents an opportunity to establish a strong presence in the industry and compete effectively with established players.
+
+![image](https://github.com/whareverrr/dsc-phase-1-project-v2-4/blob/master/3.jpeg)
+
+
+(iii) Optimize Film Runtimes for Audience Engagement
+
+The recommendation advises Microsoft to optimize film runtimes based on insights from the distribution of movie runtimes in the dataset. 
+
+By analyzing average runtimes, identifying trends and anomalies, assessing audience preferences, and tailoring film duration accordingly, Microsoft can enhance audience engagement and satisfaction. 
+
+This approach ensures that Microsoft's film productions align with audience expectations, leading to increased box office success and long-term viability in the film industry.
+
+![image](https://github.com/whareverrr/dsc-phase-1-project-v2-4/blob/master/2.jpeg)
+
+(iv) Strategic Planning Based on Revenue Trends
+
+The recommendation advises Microsoft to leverage insights from the general trend of total gross revenue over various release dates to inform strategic planning in the film production industry. 
+
+By conducting long-term revenue analysis, forecasting future revenue, adapting strategies based on revenue trends, strategically positioning film releases, and continuously monitoring industry dynamics, Microsoft can optimize its positioning in the market, maximize revenue generation, and foster long-term success. 
+
+This data-driven approach ensures Microsoft remains agile and responsive to market dynamics, enhancing its competitive advantage and profitability in the industry.
+
+![image](https://github.com/whareverrr/dsc-phase-1-project-v2-4/blob/master/1.jpeg)
+
+(v) Optimize Revenue Distribution Strategy
+
+The recommendation advises Microsoft to optimize its revenue distribution strategy based on insights derived from the scatter plot depicting the relationship between domestic and global gross revenue for specific films. 
+
+By conducting market analysis, targeting marketing strategies, forging strategic partnerships, investing in content localization, and adopting a data-driven approach, Microsoft can maximize revenue generation both domestically and internationally. 
+
+This data-driven approach ensures that Microsoft's films resonate with diverse audiences worldwide, leading to increased box office success and long-term profitability in the film industry.
+
+![image](https://github.com/whareverrr/dsc-phase-1-project-v2-4/blob/master/5.jpeg)
 
 
 
